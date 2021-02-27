@@ -1,4 +1,4 @@
-# VQE_4x4
+# VQE_4x4-VQE_Scratch
 
 Hi! This is my approach for __Task 4__ from [QOSF Mentorship Programme 2020](https://qosf.org/qc_mentorship/).
 
